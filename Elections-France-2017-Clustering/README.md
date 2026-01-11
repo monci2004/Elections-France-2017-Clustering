@@ -1,6 +1,6 @@
 # 🗳️ Analyse des Élections Présidentielles France 2017 (Clustering)
 
-![Tableau de bord Power BI](images/carte_resultats.png)
+![Tableau de bord Power BI](Images/carte_resultats.png)
 
 ## 📄 Description
 Ce projet vise à analyser les comportements électoraux en France par départements et circonscriptions.
@@ -33,4 +33,5 @@ L'algorithme a correctement identifié une homogénéité politique forte dans l
 ## ⚙️ Installation et Exécution
 1. Cloner le projet :
    ```bash
+
    git clone [https://github.com/](https://github.com/)moncif2004/Elections-France-2017-Clustering.git
